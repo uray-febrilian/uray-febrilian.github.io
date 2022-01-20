@@ -1,0 +1,37 @@
+header {
+	background: linear-gradient(4.56deg, #1ED3DF 41.97%, rgba(156, 199, 202, 0.06) 100.66%, rgba(109, 185, 190, 0.285909) 100.66%);
+}
+h1 {
+	display: inline-block;
+}
+a.nav-item {
+color: black solid;
+}
+.foto{
+	width: 150px;
+	height: auto;
+}    
+
+.awal {
+	background-image: url("background.jpeg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	width: 100%;
+	height: 400px;
+}
+
+.footer-top {
+	background: linear-gradient(4.56deg, #1ED3DF 41.97%, rgba(156, 199, 202, 0.06) 100.66%, rgba(109, 185, 190, 0.285909) 100.66%);
+
+}
+
+body {
+background: rgb(39,234,215);
+background: radial-gradient(circle, rgba(39,234,215,1) 0%, rgba(188,255,252,1) 35%, rgba(0,212,255,1) 100%);
+}
+
+iframe {
+	position: relative;
+	padding: 55px;
+	margin-top: 150px;
+}
